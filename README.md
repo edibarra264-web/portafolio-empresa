@@ -1,6 +1,5 @@
-markdown
 ---
-theme:cayman
+remote_theme: pages-themes/cayman@v0.2.2
 ---
 
 # Portafolio de obras y construccion
