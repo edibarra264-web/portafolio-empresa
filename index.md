@@ -1,5 +1,5 @@
 ---
-remote_theme: pages-themes/cayman@v0.2.2
+remote_theme: pages-themes/midnight@v0.2.2
 ---
 
 # Portafolio de obras y construccion
